@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8"/>
+<title> EXAMEN -- TIENDA DE GORRAS -- Naim Yosafat Alvarado Aldana </title>
+</head>
+<body>
+<center>
+	<blockquote>
+	Mi corazón, como una sierpe <br>
+	se ha desprendido de su piel,<br>
+	y aquí la miro entre mis dedos<br>
+	llena de heridas y de miel <br>
+	</blockquote>
+	</center>
+
+<p> Hola y bienvenidos a mi web </ p>
+<p> significa "comienzo del párrafo";
+<p> "Hola Mundo";
+</p> significa "final del párrafo."
+
+</body>
+</html>
